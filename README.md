@@ -12,7 +12,7 @@ $ composer install
 
 :small_blue_diamond: *configure .env to connect your database*  
 
-:small_blue_diamond: *Create new APP_KEY encription:*  
+:small_blue_diamond: *Create new APP_KEY encryption:*  
 ```
 $ php artisan key:generate
 ```
