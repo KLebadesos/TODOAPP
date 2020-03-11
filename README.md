@@ -38,4 +38,4 @@ $ php artisan migrate:refresh --seed
 
 :sparkler: :tada: :sparkler: That's it! :smiley:
 
-Created by kevinlebadesos.com
+Created by https://kevinlebadesos.com
