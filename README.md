@@ -4,15 +4,15 @@
 
 :pushpin: To enable to run the project kindly follow the steps below:
 
-:small_blue_diamond: *Goto it's app root directory and run the command:*
+- *Goto it's app root directory and run the command:*
 ```
 $ composer install
 ```
-:small_blue_diamond: *Create .env file*  
+- *Create .env file*  
 
-:small_blue_diamond: *configure .env to connect your database*  
+- *configure .env to connect your database*  
 
-:small_blue_diamond: *Create new APP_KEY encryption:*  
+- *Create new APP_KEY encryption:*  
 ```
 $ php artisan key:generate
 ```
@@ -21,7 +21,7 @@ $ php artisan key:generate
 
 :open_file_folder: **Database tables and sample data**  
 
-:small_blue_diamond: *Run the following commands:*  
+- *Run the following commands:*  
 > to create tables on the database
 ```
 $ php artisan migrate
